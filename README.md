@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Leivison Paiva.
 
 - 🌱 Estudando HTML e CSS
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/LeivisonPaiva">
