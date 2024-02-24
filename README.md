@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leivison Paiva.
+## Olá! Eu sou Leivison Paiva.
 
 - 🌱 Estudando HTML, CSS e Javascript
 
